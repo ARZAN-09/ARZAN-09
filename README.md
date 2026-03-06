@@ -43,7 +43,7 @@
 
 ### 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/arzan-salemwale-26b93b364">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://chic-wisp-7539f9.netlify.app/">
