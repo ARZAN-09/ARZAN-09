@@ -5,7 +5,7 @@
 
 <h2 align="center">👋 Hi, I'm Arzan</h2>
 <p align="center">
-  🚀 Passionate developer | 📱 Building apps & web experiences | 🤖 Exploring AI & System Design
+   Passionate developer |  Building apps & web experiences | Exploring AI & System Design | 
 </p>
 
 ---
