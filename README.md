@@ -21,16 +21,6 @@
 
 ---
 
-### 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/YourUsername/solo_fit_leveling_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=solo_fit_leveling_app&theme=radical" />
-  </a>
-  <a href="https://github.com/YourUsername/kingdom_of_ruins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=kingdom_of_ruins&theme=radical" />
-  </a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
