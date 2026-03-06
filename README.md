@@ -46,7 +46,7 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://chic-wisp-7539f9.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
