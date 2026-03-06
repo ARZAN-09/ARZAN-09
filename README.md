@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Arzan%20Salemwale&fontColor=58a6ff&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Arzan%20Salemwale&fontColor=7995e5&fontSize=45&animation=fadeIn" />
 </p>
 
 <h2 align="center">👋 Hi, I'm Arzan</h2>
