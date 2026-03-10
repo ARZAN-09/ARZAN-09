@@ -34,17 +34,17 @@
 ---
 
 ### 📂 Featured Projects
-*Showcasing my latest work in Mobile and Web development.*
+[cite_start]*Directly showcasing work from my repositories[cite: 1, 2].*
 
-| **Project 01** | **Project 02** |
+| [cite_start]**Anmessage**  | [cite_start]**CLG Marketplace**  |
 | :--- | :--- |
-| <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/your-image-url-1.png" width="400" alt="Project 1 Preview" /> | <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/your-image-url-2.png" width="400" alt="Project 2 Preview" /> |
-| **SaaS Dashboard** <br> A high-performance Flutter web dashboard for managing AI workflows. | **E-Commerce App** <br> Fully functional mobile app with Firebase integration and Stripe payments. |
-| `Flutter` `Dart` `Firebase` | `Python` `Django` `Stripe` |
+| <img src="https://opengraph.githubassets.com/1/ARZAN-09/Anmessage" width="400" alt="Anmessage Preview" /> | <img src="https://opengraph.githubassets.com/1/ARZAN-09/clgmarketplace" width="400" alt="CLG Marketplace Preview" /> |
+| **Messaging Architecture** <br> A real-time communication platform focused on state management. | **Campus Marketplace** <br> A peer-to-peer student trade platform optimized for campus use. |
+| `Flutter` `Dart` `Firebase` | `Flutter` `Dart` `System Design` |
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Engineering Metrics (Static)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARZAN-09&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARZAN-09&theme=radical&hide_border=true" width="48%" alt="Streak" />
