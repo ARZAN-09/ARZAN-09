@@ -34,12 +34,12 @@
 ---
 
 ### 📂 Featured Projects
-[cite_start]*Directly showcasing work from my repositories[cite: 1, 2].*
+[cite_start]*Directly showcasing work from my repositories.* 
 
-| [cite_start]**Anmessage**  | [cite_start]**CLG Marketplace**  |
+| **Anmessage** | **CLG Marketplace** |
 | :--- | :--- |
 | <img src="https://opengraph.githubassets.com/1/ARZAN-09/Anmessage" width="400" alt="Anmessage Preview" /> | <img src="https://opengraph.githubassets.com/1/ARZAN-09/clgmarketplace" width="400" alt="CLG Marketplace Preview" /> |
-| **Messaging Architecture** <br> A real-time communication platform focused on state management. | **Campus Marketplace** <br> A peer-to-peer student trade platform optimized for campus use. |
+| [cite_start]**Messaging Architecture** <br> A real-time communication platform focused on state management. [cite: 1] | [cite_start]**Campus Marketplace** <br> A peer-to-peer student trade platform optimized for campus use. [cite: 2] |
 | `Flutter` `Dart` `Firebase` | `Flutter` `Dart` `System Design` |
 
 ---
