@@ -49,9 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ARZAN-09&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARZAN-09&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARZAN-09&layout=compact&theme=radical&hide_border=true" width="60%" alt="Top Languages" />
-</p>
+
 
 ---
 
