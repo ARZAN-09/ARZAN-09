@@ -1,51 +1,61 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Arzan%20Salemwale&fontColor=7995e5&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=Arzan%20Salemwale&fontColor=7995e5&fontSize=50&animation=fadeIn" />
 </p>
 
-<h2 align="center">👋 Hi, I'm Arzan</h2>
-<p align="center">
-   Passionate developer |  Building apps & web experiences | Exploring AI & System Design | 
-</p>
-
----
-
-### ⚡ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
----
-
----
-
-### 📊 GitHub Stats
-<p align="center">
+<div align="center">
+  <h1>👋 Hello, I'm Arzan</h1>
+  <p><b>Software Engineer | Flutter Specialist | AI & System Design Enthusiast</b></p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" height="150" />
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-blueviolet?style=flat-square" />
+    <img src="https://img.shields.io/badge/Status-Building%20SaaS-green?style=flat-square" />
+    <img src="https://img.shields.io/badge/Location-Remote-7995e5?style=flat-square" />
+  </p>
+</div>
+
+---
+
+### 🚀 About Me
+- 📱 **Mobile Dev:** Crafting seamless experiences using Flutter & Dart.
+- ⚙️ **Backend & Logic:** Solving complex problems with Python and C++.
+- 🧠 **Learning:** Currently diving deep into **System Design Patterns** and **LLM Integration**.
+- 💬 **Ask me about:** Cross-platform development or why Git is a lifesaver.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend/Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arzan-salemwale&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzan-salemwale&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-<p>
-  <a href="www.linkedin.com/in/
-arzan-salemwale-26b93b364
-">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/arzan-salemwale-26b93b364">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://chic-wisp-7539f9.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
----
+<br />
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=70&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=50&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=7995e5" />
 </p>
