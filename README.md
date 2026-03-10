@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-- 📱 **Mobile Dev:** Crafting seamless experiences using Flutter & Dart.
+- [cite_start]📱 **Mobile Dev:** Crafting seamless experiences using Flutter & Dart[cite: 1, 2].
 - ⚙️ **Backend & Logic:** Solving complex problems with Python and C++.
 - 🧠 **Learning:** Currently diving deep into **System Design Patterns** and **LLM Integration**.
 - 💬 **Ask me about:** Cross-platform development or architectural efficiency.
@@ -34,19 +34,23 @@
 ---
 
 ### 📂 Featured Projects
-[cite_start]*Directly showcasing work from my repositories.* 
+[cite_start]*Directly showcasing work from my repositories[cite: 1, 2].*
 
 | **Anmessage** | **CLG Marketplace** |
 | :--- | :--- |
 | <img src="https://opengraph.githubassets.com/1/ARZAN-09/Anmessage" width="400" alt="Anmessage Preview" /> | <img src="https://opengraph.githubassets.com/1/ARZAN-09/clgmarketplace" width="400" alt="CLG Marketplace Preview" /> |
-| [cite_start]**Messaging Architecture** <br> A real-time communication platform focused on state management. [cite: 1] | [cite_start]**Campus Marketplace** <br> A peer-to-peer student trade platform optimized for campus use. [cite: 2] |
+| [cite_start]**Messaging Architecture** <br> A real-time communication platform focused on state management[cite: 1]. | [cite_start]**Campus Marketplace** <br> A peer-to-peer student trade platform optimized for campus use[cite: 2]. |
 | `Flutter` `Dart` `Firebase` | `Flutter` `Dart` `System Design` |
 
 ---
 
-### 📊 Engineering Metrics (Static)
+### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARZAN-09&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARZAN-09&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARZAN-09&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARZAN-09&layout=compact&theme=radical&hide_border=true" width="60%" alt="Top Languages" />
 </p>
 
 ---
