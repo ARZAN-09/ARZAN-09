@@ -33,6 +33,17 @@
 
 ---
 
+### 📂 Featured Projects
+*Showcasing my latest work in Mobile and Web development.*
+
+| **Project 01** | **Project 02** |
+| :--- | :--- |
+| <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/your-image-url-1.png" width="400" alt="Project 1 Preview" /> | <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/your-image-url-2.png" width="400" alt="Project 2 Preview" /> |
+| **SaaS Dashboard** <br> A high-performance Flutter web dashboard for managing AI workflows. | **E-Commerce App** <br> Fully functional mobile app with Firebase integration and Stripe payments. |
+| `Flutter` `Dart` `Firebase` | `Python` `Django` `Stripe` |
+
+---
+
 ### 📊 Engineering Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARZAN-09&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Stats" />
