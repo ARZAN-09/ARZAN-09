@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>👋 Hello, I'm Arzan</h1>
+  <h1> Hello, I'm Arzan</h1>
   <p><b>Software Engineer | Flutter Specialist | AI & System Design Enthusiast</b></p>
   
   <p>
